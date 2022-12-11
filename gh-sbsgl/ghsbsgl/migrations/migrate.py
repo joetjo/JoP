@@ -12,9 +12,6 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 
-from JopLauncherConstant import JopLauncher
-from plugins.log import Log
-
 
 def nop(storage, version):
     Log.debug("| no data migration needed to upgrade to version {}".format(version))

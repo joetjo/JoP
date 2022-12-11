@@ -11,6 +11,7 @@
 #   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
+from ghbase.GhStorage import GhStorage
 from ghsbsgl.private.process import ProcessInfo
 
 
@@ -104,7 +105,7 @@ class Session:
         return self.game_info
 
 
-# encapsulate previous sessions management - List of Session managed
+# encapsulate previous sessions' management - List of Session managed
 # either in storage ( last sessions )
 # either in memory ( search result )
 class SessionList:

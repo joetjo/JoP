@@ -18,16 +18,12 @@ import logging  # This module is thread safe.
 import threading
 import time
 
-from JopLauncherConstant import JopLauncher, JopSETUP
-from base.jsonstore import GhStorage
-from plugins.jopsetup import JopSetup
-from plugins.log import Log
-from plugins.sbsgl.migrations.migrate import StorageVersion
-from plugins.sbsgl.private.currentgame import GameProcessHolder
-from plugins.sbsgl.private.process import ProcessInfo
-from plugins.sbsgl.private.processutil import ProcessUtil
-
+from ghbase.GhStorage import GhStorage
 from ghsbsgl.data.session import SessionList, Session
+from ghsbsgl.migrations.migrate import StorageVersion
+from ghsbsgl.private.currentgame import GameProcessHolder
+from ghsbsgl.private.process import ProcessInfo
+from ghsbsgl.private.processutil import ProcessUtil
 
 LOCAL_STORAGE = 'local_storage.json'
 LOCK = threading.Lock()

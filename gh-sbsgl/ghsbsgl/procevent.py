@@ -14,8 +14,6 @@
 
 from abc import ABC, abstractmethod
 
-from plugins.log import Log
-
 
 class EventListener(ABC):
     pass
