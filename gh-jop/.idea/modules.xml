@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../gh-foundation/.idea/gh-foundation.iml" filepath="$PROJECT_DIR$/../gh-foundation/.idea/gh-foundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gh-gui/.idea/gh-gui.iml" filepath="$PROJECT_DIR$/../gh-gui/.idea/gh-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gh-jop.iml" filepath="$PROJECT_DIR$/.idea/gh-jop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gh-markdown/.idea/gh-markdown.iml" filepath="$PROJECT_DIR$/../gh-markdown/.idea/gh-markdown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gh-sbsgl/.idea/gh-sbsgl.iml" filepath="$PROJECT_DIR$/../gh-sbsgl/.idea/gh-sbsgl.iml" />
+    </modules>
+  </component>
+</project>

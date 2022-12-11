@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f88230d3-ea84-4008-bd17-cda0d3314619" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/JoP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-foundation/base/GHLauncher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-foundation/base/GHSetup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-foundation/base/GHStorage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-foundation/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-foundation/util/confirm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-foundation/util/fileutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-foundation/util/pair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/gui/GhGuiApplication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/about-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/clear-search-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/close-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/closed-sign-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/document-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/edit-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/esc-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/file-explorer-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/menu-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/none-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/not-applicable-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/play-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/plus-math-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/refresh-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/remove-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/remove-edit-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/search-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/shop-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/switch-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/void-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/black/website-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/extract_icon/extracyicon.disabled" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/icons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/platforms/EPIC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/platforms/GOG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/platforms/ITCHIO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/platforms/ORIGIN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/platforms/STEAM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/platforms/UBISOFT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-gui/icons/platforms/discord.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-markdown/markdown/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-markdown/markdown/label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-markdown/markdown/markdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-markdown/markdown/markdownfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gh-markdown/markdown/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/session.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sbsgl/Global.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sbsgl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sbsgl/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sbsgl/migrations/migrate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sbsgl/private/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sbsgl/private/currentgame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sbsgl/private/process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sbsgl/private/processutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sbsgl/procevent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sbsgl/procmgr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2IjbnUrFjmHpOca57boYOepSkD5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f88230d3-ea84-4008-bd17-cda0d3314619" name="Changes" comment="" />
+      <created>1670698106700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670698106700</updated>
+    </task>
+    <servers />
+  </component>
+</project>
